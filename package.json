@@ -1,0 +1,23 @@
+{
+  "name": "hangman-game-cli",
+  "version": "1.0.0",
+  "description": "Game of Thrones Hangman Game (CLI Version)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Erfaanism/Hangman-Game-CLI.git"
+  },
+  "author": "Ali Darvishi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Erfaanism/Hangman-Game-CLI/issues"
+  },
+  "homepage": "https://github.com/Erfaanism/Hangman-Game-CLI#readme",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "inquirer": "^3.3.0"
+  }
+}

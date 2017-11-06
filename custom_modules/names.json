@@ -1,0 +1,73 @@
+[{
+        "fname": "arya",
+        "lname": "stark"
+    },
+    {
+        "fname": "benjen",
+        "lname": "stark"
+    },
+    {
+        "fname": "bran",
+        "lname": "stark"
+    },
+    {
+        "fname": "catelyn",
+        "lname": "stark"
+    },
+    {
+        "fname": "cersei",
+        "lname": "lannister"
+    },
+    {
+        "fname": "daenerys",
+        "lname": "targaryen"
+    },
+    {
+        "fname": "euron",
+        "lname": "greyjoy"
+    },
+    {
+        "fname": "jaime",
+        "lname": "lannister"
+    },
+    {
+        "fname": "joffrey",
+        "lname": "baratheon"
+    },
+    {
+        "fname": "jon",
+        "lname": "snow"
+    },
+    {
+        "fname": "margarey",
+        "lname": "tyrell"
+    },
+    {
+        "fname": "robb",
+        "lname": "stark"
+    },
+    {
+        "fname": "robert",
+        "lname": "baratheon"
+    },
+    {
+        "fname": "sansa",
+        "lname": "stark"
+    },
+    {
+        "fname": "stannis",
+        "lname": "baratheon"
+    },
+    {
+        "fname": "theon",
+        "lname": "greyjoy"
+    },
+    {
+        "fname": "tyrion",
+        "lname": "lannister"
+    },
+    {
+        "fname": "tywin",
+        "lname": "lannister"
+    }
+]

@@ -1,0 +1,8 @@
+{
+    "bannerText": ["red", "bold"],
+    "bannerBox": "blue",
+    "input": "grey",
+    "remaining": ["cyan", "bold"],
+    "prompt": ["cyan", "bold"],
+    "error": ["red", "underline"]
+}

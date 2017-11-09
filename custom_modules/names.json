@@ -1,73 +1,73 @@
 [{
-        "fname": "arya",
-        "lname": "stark"
+        "fname": "ARYA",
+        "lname": "STARK"
     },
     {
-        "fname": "benjen",
-        "lname": "stark"
+        "fname": "BENJEN",
+        "lname": "STARK"
     },
     {
-        "fname": "bran",
-        "lname": "stark"
+        "fname": "BRAN",
+        "lname": "STARK"
     },
     {
-        "fname": "catelyn",
-        "lname": "stark"
+        "fname": "CATELYN",
+        "lname": "STARK"
     },
     {
-        "fname": "cersei",
-        "lname": "lannister"
+        "fname": "CERSEI",
+        "lname": "LANNISTER"
     },
     {
-        "fname": "daenerys",
-        "lname": "targaryen"
+        "fname": "DAENERYS",
+        "lname": "TARGARYEN"
     },
     {
-        "fname": "euron",
-        "lname": "greyjoy"
+        "fname": "EURON",
+        "lname": "GREYJOY"
     },
     {
-        "fname": "jaime",
-        "lname": "lannister"
+        "fname": "JAIME",
+        "lname": "LANNISTER"
     },
     {
-        "fname": "joffrey",
-        "lname": "baratheon"
+        "fname": "JOFFREY",
+        "lname": "BARATHEON"
     },
     {
-        "fname": "jon",
-        "lname": "snow"
+        "fname": "JON",
+        "lname": "SNOW"
     },
     {
-        "fname": "margarey",
-        "lname": "tyrell"
+        "fname": "MARGAREY",
+        "lname": "TYRELL"
     },
     {
-        "fname": "robb",
-        "lname": "stark"
+        "fname": "ROBB",
+        "lname": "STARK"
     },
     {
-        "fname": "robert",
-        "lname": "baratheon"
+        "fname": "ROBERT",
+        "lname": "BARATHEON"
     },
     {
-        "fname": "sansa",
-        "lname": "stark"
+        "fname": "SANSA",
+        "lname": "STARK"
     },
     {
-        "fname": "stannis",
-        "lname": "baratheon"
+        "fname": "STANNIS",
+        "lname": "BARATHEON"
     },
     {
-        "fname": "theon",
-        "lname": "greyjoy"
+        "fname": "THEON",
+        "lname": "GREYJOY"
     },
     {
-        "fname": "tyrion",
-        "lname": "lannister"
+        "fname": "TYRION",
+        "lname": "LANNISTER"
     },
     {
-        "fname": "tywin",
-        "lname": "lannister"
+        "fname": "TYWIN",
+        "lname": "LANNISTER"
     }
 ]

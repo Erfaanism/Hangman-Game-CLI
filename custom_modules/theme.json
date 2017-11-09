@@ -2,7 +2,9 @@
     "bannerText": ["red", "bold"],
     "bannerBox": "blue",
     "input": "grey",
-    "remaining": ["cyan", "bold"],
+    "remaining": ["green", "bold"],
     "prompt": ["cyan", "bold"],
-    "error": ["red", "underline"]
+    "error": ["red", "underline"],
+    "winner": ["rainbow", "bold", "underline"],
+    "loser": ["grey", "bold"]
 }

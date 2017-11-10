@@ -48,7 +48,6 @@ let play = () => {
                 console.log(`\nRounds won: ${intWon} Rounds lost: ${intLost}\n`);
                 return result[0];
             } else {
-                console.log(result)
                 return result;
             }
         }
